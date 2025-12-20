@@ -1,0 +1,6 @@
+admin
+login
+test
+backup
+config
+uploads
